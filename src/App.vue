@@ -41,7 +41,7 @@
   opacity: 1;
 }
 .fade-enter-active {
-  transition: all 1s 0s ease;
+  transition: all 2s 0s ease;
 }
 .fade-leave {
   transform: translate(0, 0);
@@ -52,6 +52,6 @@
   opacity: 0;
 }
 .fade-leave-active {
-  transition: all .5s 0s ease;
+  transition: all 1s 0s ease;
 }
 </style>
